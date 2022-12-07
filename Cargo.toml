@@ -13,3 +13,4 @@ itertools = "0.10.5"
 regex = "1.7.0"
 syn = { version = "1.0.105", features = ["full"] }
 quote = "1.0.21"
+trees = "0.4.2"
